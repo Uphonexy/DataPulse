@@ -105,7 +105,7 @@ For **feedback**, **contributions**, or **inquiries**, connect with me:
 
 **Maharshi Tripathi**  
 👤 [LinkedIn](https://www.linkedin.com/in/maharshi-tripathi-26b64a222)  
-📧 Email: [your-email@example.com](mailto:your-email@example.com) maharshitripathi302@gmail.com  
+📧 Email:  maharshitripathi302@gmail.com  
 
 ## 🙏 **Acknowledgments**
 **Built with passion by Maharshi Tripathi**, an MCA student passionate about **data analytics** and **AI-driven solutions**. Inspired by **real-world needs** for automated, **user-friendly data analysis tools**. ❤️🤝
